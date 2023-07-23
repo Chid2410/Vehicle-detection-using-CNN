@@ -19,13 +19,13 @@ We trained three different machine learning models to classify vehicle and non-v
 
 ### Screenshots
 
-![Home Page](documentation/assets/images/home_page.png)
+![Result](documentation/assets/images/s1.png)
 
-![Compare Page](documentation/assets/images/compare_page.png)
+![Result](documentation/assets/images/s2.png)
 
-![Predict Page](documentation/assets/images/predict_page.png)
+![Result](documentation/assets/images/s3.png)
 
-![Result Page](documentation/assets/images/results_page.png)
+
 
 
 ## Documentation
