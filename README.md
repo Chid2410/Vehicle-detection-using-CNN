@@ -3,7 +3,7 @@ This repo contains the dataset and code of my final year project "Vehicle detect
 
 
 ## Dataset
-I used a publicly available dataset for tea leaf disease detection. The dataset is available in the `data` directory.
+I used a publicly available dataset for vehicle and non-vehicle detection. The dataset is available in the `data` directory.
 
 ## Notebooks
 
